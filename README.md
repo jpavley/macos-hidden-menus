@@ -8,6 +8,9 @@ Some hints can be found here: https://support.apple.com/en-us/HT201236
 
 - Explore macOS by clicking with various modifier keys on icons and menus.
 - Take screenshots of your discovery.
+  - Blur private info (like MAC addresses).
+  - Name files with keywords.
+  - PNG file format is best.
 - Use the template file to create an entry.
   - Write in Markdown.
 - Each entry should document a single click with multiple modifiers.
