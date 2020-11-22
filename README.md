@@ -1,6 +1,9 @@
 # macos-hidden-menus
 A list of features that are revealed with when clicking menus and icons with modifier keys like command, shift, control, and options. Please contribute!
 
+Some hints can be found here: https://support.apple.com/en-us/HT201236
+(But that is mostly about shortcut keys.)
+
 ## How to Contribute
 
 - Explore macOS by clicking with various modifier keys on icons and menus.
