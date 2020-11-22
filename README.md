@@ -7,7 +7,11 @@ A list of features that are revealed with when clicking menus and icons with mod
 1. Take screenshots of your discovery.
 1. Use the template file to create an entry.
 1. Each entry should document a single click with multiple modifiers.
-1. Name each entry from app to feature: Finder-Sound.md (sound icon in menubar when Finder.app is active) and Finder-File (file meny in menubar when Finder.app is active),
+1. Name each entry from app to feature.
+
+- Finder-Sound.md (sound icon in menubar when Finder.app is active).
+- Finder-File (file meny in menubar when Finder.app is active).
+
 1. Make sure you record/update version info.
 1. Stick to the facts, no speculations or opinions needed!
 1. Submit a pull request.
