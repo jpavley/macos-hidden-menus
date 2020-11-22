@@ -4,6 +4,8 @@
 
 ### Click
 
+![Finder Bluetooth click](https://github.com/jpavley/macos-hidden-menus/blob/main/screenshots/finder-bluetooth-click.png)
+
 - Bluetooth toogle
 - Device list
 - Bluetooth preference link
