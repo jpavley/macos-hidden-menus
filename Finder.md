@@ -2,13 +2,21 @@
 
 # Bluetooth Icon in Menubar
 
+## Click
+
+- Bluetooth toogle
+- Device list
+- Bluetooth preference link
+
 ## Option Click
 
+- All of the above
 - Name, address, and version of system
 - RSSI, Role, Address, and Firmware if avaiable for each device
 
 ## Option Shift-Click
 
+- All of the above
 - Reset the Bluethooth module command
 - Factory reset all connected Apple devices command
 - Remove all devices commnand
