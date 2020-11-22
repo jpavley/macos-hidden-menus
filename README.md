@@ -3,20 +3,20 @@ A list of features that are revealed with when clicking menus and icons with mod
 
 ## How to Contribute
 
-1. Explore macOS by clicking with various modifier keys on icons and menus.
-1. Take screenshots of your discovery.
-1. Use the template file to create an entry.
-- Write in Markdown.
-1. Each entry should document a single click with multiple modifiers.
-1. Name each entry from app to feature.
-- Finder-Sound.md (sound icon in menubar when Finder.app is active).
-- Finder-File (file meny in menubar when Finder.app is active).
-1. Make sure you record/update version info.
-1. Stick to the facts, no speculations or opinions needed!
-1. Submit a pull request.
-1. Be patient. Reviews take time!
+- Explore macOS by clicking with various modifier keys on icons and menus.
+- Take screenshots of your discovery.
+- Use the template file to create an entry.
+  - Write in Markdown.
+- Each entry should document a single click with multiple modifiers.
+- Name each entry from app to feature.
+  - Finder-Sound.md (sound icon in menubar when Finder.app is active).
+  - Finder-File (file meny in menubar when Finder.app is active).
+- Make sure you record/update version info.
+- Stick to the facts, no speculations or opinions needed!
+- Submit a pull request.
+- Be patient. Reviews take time!
 
 ## Code of Conduct
 
-1. Everyone is welcome to contribute.
-1. Contact the maintainer with concerns.
+- Everyone is welcome to contribute.
+- Contact the maintainer with concerns.
