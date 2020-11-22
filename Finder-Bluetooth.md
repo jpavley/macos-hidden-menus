@@ -12,11 +12,15 @@
 
 ### Option Click
 
+![Finder Bluetooth option click](https://github.com/jpavley/macos-hidden-menus/blob/main/screenshots/finder-bluetooth-option-click.png)
+
 - All of the above
 - Name, address, and version of system
 - RSSI, Role, Address, and Firmware if avaiable for each device
 
 ### Option Shift-Click
+
+![Finder Bluetooth option shift click](https://github.com/jpavley/macos-hidden-menus/blob/main/screenshots/finder-bluetooth-option-shift-click.png)
 
 - All of the above
 - Reset the Bluethooth module command
